@@ -1,1 +1,1 @@
-[Live CODE](https://prod.liveshare.vsengsaas.visualstudio.com/join?1D5CABEC552036890189A324B4AE210D9B80)
+[Live CODE](https://vscode.dev/editor/liveshare/532B86175C0DA4C4E2F1503A96590F233F4C)
